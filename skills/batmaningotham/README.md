@@ -152,7 +152,7 @@ Tested on real multi-tenant Next.js + Supabase applications against 15 adversari
 Install directly across any supported AI agent environment (Antigravity, Claude Code, Cursor, Codex, etc.) with a single command:
 
 ```bash
-npx skills add Devlokey/batmaningotham
+npx skills add Devlokey/batman-ingotham
 ```
 
 ---
@@ -162,18 +162,18 @@ npx skills add Devlokey/batmaningotham
 #### Antigravity / Gemini Coder
 Copy or clone this repository into your project's `.agents/skills/` directory:
 ```bash
-git clone https://github.com/Devlokey/batmaningotham.git .agents/skills/batmaningotham
+git clone https://github.com/Devlokey/batman-ingotham.git .agents/skills/batmaningotham
 ```
 
 #### Global Installation (All Projects on Machine)
 Install globally in your `~/.gemini/config/` customization directory:
 ```bash
-git clone https://github.com/Devlokey/batmaningotham.git ~/.gemini/config/plugins/custom/skills/batmaningotham
+git clone https://github.com/Devlokey/batman-ingotham.git ~/.gemini/config/plugins/custom/skills/batmaningotham
 ```
 
 #### Claude Code / Codex
 ```bash
-claude plugin add Devlokey/batmaningotham
+claude plugin add Devlokey/batman-ingotham
 ```
 
 ---
